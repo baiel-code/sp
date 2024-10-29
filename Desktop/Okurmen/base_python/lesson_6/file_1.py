@@ -1,0 +1,13 @@
+text = "okurmen"
+print(text[1])
+print(text[0] + text[-1])
+print(text[0] > text[-1])
+print(text[2:5])
+print(text[-3:-7])
+print(text[1:])
+print(text[:6])
+print(text[:])
+print(text[0:7:2])
+print(text[-6:-2])
+print(text[-2:-6:-1])
+print(text[5:0:-1])
