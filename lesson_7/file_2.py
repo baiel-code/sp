@@ -1,0 +1,6 @@
+pu = input("slovo")
+p = pu.upper()
+print(p)
+l = input("slovo")
+lp = l.lower()
+print(lp)
